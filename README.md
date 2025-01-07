@@ -1,5 +1,5 @@
 # python
-👋 Hi, I'm RANJAN A
+👋 Hi, I'm RANJAN A! 
 I'm a student of Dr. AIT, 2nd year (CSBS).
 I'm a Python developer passionate about Data Science, and building impactful projects.
 I love creating dynamic applications and databases using Python, SQL, and web technologies like HTML, CSS, and JavaScript.
